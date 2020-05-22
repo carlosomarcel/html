@@ -1,0 +1,1 @@
+.tabs .nav-wrapper li a{text-transform:uppercase;font-weight:600;font-size:14px;letter-spacing:.6px}.tabs .items{display:none}.tabs .inner-tabs{height:49px}
